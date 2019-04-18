@@ -10,7 +10,7 @@ Exactly 6 years ago, I graduated from a state university in Philippines which I 
 
 I really want to know more about computers maybe because I was so fascinated about how this thing works. It feels good to see computers and I even don't mind to be called ***computer addict***. I don't know why but every time I see it, it's fun and makes me feel really excited!
 
-We don't have that much. We were 5 in the family. My 2 sisters were on college that year from different state university, so continuing my bachelors was more like a bad idea due to financial constraints but that idea didn't popped on my head.
+We don't have that much. We were 5 in the family. My 2 sisters were on college that year from different state university, so continuing my bachelors was more like a bad idea due to financial constraints but that idea didn't popped in my head.
 
 Mom asked me if I want to continue in Adamson University.
 
@@ -18,25 +18,25 @@ and I was like, ***"You sure? can you (with dad) do it to send me to such school
 
 She said ***"I guess, Yes. we will cope with perseverance. You know us. We'll make a way."***
 
-then I said, ***"As long as you guys can. There's no problem with me, I will finish it."***
+then I said, ***"As long as you guys can. There's no problem with me, I will finish it."*** Deep inside of me, I am really excited.
 
 So, I went to Adamson. It was a good school by the way. I took the entrance exam, passed it (actually I was surprised that I am allowed to take any courses) transferred my credentials and enrolled.
 
-Several days had passed, few months before I could finish my 1st year in Adamson, I can see and feel the burden of my parents that they were arguing about something. They didn't tell me that my tuition fees was from loan with 20% interest.
+Few months before I could finish my 1st year in Adamson, I can see and feel the burden of my parents that they were arguing about something. They didn't tell me but I found out that my tuition fees was from a loan with 20% interest.
 
-I feel the burden even they don't know I already knew it. Depression kicks in. You might ask, why not apply for SA, or Scholarship? well I did. But Adamson didn't allowed me to take scholarship program due to some reasons, I forgot maybe due to my previous grades and personally my home was a 2hr ride (4hrs+ on the road) and head-bursting traffic on normal day.
+I feel the burden even they don't know I already knew it. Depression kicks in. You might ask, why not apply for SA or Scholarship? Well I tried but Adamson didn't allowed me to take scholarship program due to some reasons. I forgot maybe due to my previous grades and personally I don't think I can because our house was a 2hr ride (4hrs+ on the road) and head-bursting traffic on a normal day.
 
 I also went to a government agency in Bicutan to enroll as a scholar but they also denied my application  because of my father's ITR.
 
-You might ask, why not a part-time job? Well I tried. Gave my resume to Pizza Hut, McDonalds and several fast foods chains. I didn't received call/message or anything. I went to call centers, practiced my English( sorry about my grammars here), got rejected. Another week another call center, another hell traffic + MRT lines and sardines commute, another hope another prayer but then again, my interviews didn't go well as planned. Going home feels like I just wasted my time, money and hope. When anxiety kicks in. I usually hold the Regret Letter and hoping maybe they will call back. I called it Regret letter because it starts with "Regretfully,".
+You might ask, why not a part-time job? Well I tried that too. I gave my resumé to Pizza Hut, McDonalds and several fast foods chains. I didn't received call/message or anything. I went to call centers, practiced my English(sorry about my grammars here) got rejected. Another week another call center, another hell traffic + MRT lines with sardines commute, another hope another prayer but my interviews didn't go well as planned. Going home feels like I just wasted my time, money and hope. When anxiety kicks in. I usually hold the Regret Letter and hoping maybe they will call back. I called it Regret letter because it starts with "Regretfully".
 
-After my last sem in Adamson, I focused my time looking for a job. Knowing that I already graduated and earned technical degree, for me I guess it's enough. In my mind, I need to get out of this debt.
+After my last sem in Adamson, I focused my time looking for a job. Knowing that I already graduated and earned a technical degree for me I guess that's good enough. In my mind, I need to get out of this debt.
 
-**April 2014**, I woke up early and asked my childhood friend to come with me and spend the day to give away flyers to every company guards in Laguna Technopark. We walked for about 3 hours straight just to give our resumé to each guards of companies we passed-by and asked them to kindly give it to HR if there's an opening job.
+**April 2014**, I woke up early and asked my childhood friend to come with me and spend the day to give away flyers to every company guards in Laguna Technopark. We walked for about 3 hours straight just to give our resumé to each guards of several companies we passed-by and asked them politely to give it to HR if there's an opening job.
 
 It feels like giving advertisement flyers to someone who doesn't care about what you're doing.
 
-**April 11**, My friend got a message inviting him take an exam for a job. Few hours later, I haven't received any message. Like why?
+**April 11**, My friend got a message inviting him for an exam. Few hours later, I haven't received any message.
 
 ![Invitation Message](./txtmessage.png)
 
@@ -68,7 +68,7 @@ Being excited and nervous I can feel my hands shaking and my eyes with tears but
 
 On that day, I can't wait to go home and tell everything to Mom.
 
-...from there, a lot of things I never thought will happen to me and the rest is history.
+...from there, a lot of things happened which I thought would never happen to me and the rest is history.
 
 Paid the loans, gave my parents a vacation trip 2x and contributed for the house renovation. It's almost my 5th year anniversary. I got promoted twice and my manager allowed me to continue my dream coure, BS in Computer Engineering.
 

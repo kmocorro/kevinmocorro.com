@@ -35,7 +35,6 @@ class BlogPostTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
-        <Bio />
 
         <ul
           style={{
@@ -48,19 +47,21 @@ class BlogPostTemplate extends React.Component {
         >
           <li>
             {previous && (
-              <Link to={previous.fields.slug} rel="prev">
+              <Link to={previous.fields.slug} rel="prev" style={{ color: '#c30042' }} >
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={next.fields.slug} rel="next">
+              <Link to={next.fields.slug} rel="next" style={{ color: '#c30042' }} >
                 {next.frontmatter.title} →
               </Link>
             )}
           </li>
         </ul>
+
+        <Bio />
       </Layout>
     )
   }
