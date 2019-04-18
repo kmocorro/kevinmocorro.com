@@ -30,9 +30,9 @@ I also went to a government agency in Bicutan to enroll as a scholar but they al
 
 You might ask, why not a part-time job? Well I tried that too. I gave my resumé to Pizza Hut, McDonalds and several fast foods chains. I didn't received call/message or anything. I went to call centers, practiced my English(sorry about my grammars here) got rejected. Another week another call center, another hell traffic + MRT lines with sardines commute, another hope another prayer but my interviews didn't go well as planned. Going home feels like I just wasted my time, money and hope. When anxiety kicks in. I usually hold the Regret Letter and hoping maybe they will call back. I called it Regret letter because it starts with "Regretfully".
 
-After my last sem in Adamson, I focused my time looking for a job. Knowing that I already graduated and earned a technical degree for me I guess that's good enough. In my mind, I need to get out of this debt.
+After my last sem in Adamson, I kept on looking for a job. Knowing that I already graduated and earned a technical degree for me I guess that's good enough. In my mind, I need to get out of this debt.
 
-**April 2014**, I woke up early and asked my childhood friend to come with me and spend the day to give away flyers to every company guards in Laguna Technopark. We walked for about 3 hours straight just to give our resumé to each guards of several companies we passed-by and asked them politely to give it to HR if there's an opening job.
+**April 2014**, I woke up early and asked my childhood friend to come with me and spend the day to give away flyers to every company guards in Laguna Technopark. We walked for about 3 hours straight just to give our resumé to each security guards of every companies we passed-by and asked them politely to give it to HR if there's an opening job.
 
 It feels like giving advertisement flyers to someone who doesn't care about what you're doing.
 
@@ -40,17 +40,15 @@ It feels like giving advertisement flyers to someone who doesn't care about what
 
 ![Invitation Message](./txtmessage.png)
 
-He also asked for an interview from his previous company he was applying for so I asked him if he could forward the message he received and if I could just go instead of him. He said:
+He also asked for an interview from his previous company he was applying for so I asked him if he could forward the message he received and if I could just go instead of him, he said:
 
 >Try it bro, there's nothing to lose.
 
-He forwarded it to me. By the way, we were both applying for the same position. He later went to the interview.
-
 **April 12, 2014 - Saturday**
 ( yeah I can still remember). 
-I went there with hope but security didn't allowed me to go through. I already gave my ID and he said "Sit there and wait for the call".
+I went there with hope but the security didn't allowed me to go through. I gave my ID and he said "Sit there and wait for the call.".
 
-Few minutes later, I realized to text the HR and tell what happened. So I texted the number who sent the message to my friend and inform them that I will replace my friend since we were on the same school. So I waited there for 2hrs, praying and focusing and nothing seems to happen. I texted my Mom because she prepared my food before I went there so she knew I was applying for the job.
+Few minutes later, I realized that I should send a message to the HR and tell what happened. So I texted the number who sent the message to my friend and inform them that I will replace my friend since we were on the same school and eyeing for the same position. So I waited there for 2 hours, praying and focusing and nothing seems to happen. I texted my Mom because she prepared my food before I went out so she knew I was applying for the job.
 
 >"Ma, I'm going home."
 
@@ -60,9 +58,9 @@ My mind urges me to stand and walk away. But there's something inside of me sayi
 
 Right after I stood...
 
-I heard a name. Security guard called me holding an guest badge with my name on it.
+I heard a name. Security guard called me holding a guest badge with my name on it.
 
-I can't explain what I was thinking that day but my mind keep on saying thank you thank you... Right from there I thanked the security, grab the badge and went inside in seconds!
+I cannot explain what I was thinking that day but my mind keep on saying thank you thank you... Right from there I thanked the security, grab the badge and went inside in seconds!
 
 Being excited and nervous I can feel my hands shaking and my eyes with tears but I just wiped it and sucked it in. I took the exam and passed it even the HR and technical interviews.
 
