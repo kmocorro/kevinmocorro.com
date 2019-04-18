@@ -42,7 +42,7 @@ class Layout extends React.Component {
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `#C30042`,
             }}
             to={`/`}
           >
@@ -62,6 +62,11 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
+        <footer>
+          © {new Date().getFullYear()},
+          {` `}
+          <a href="https://kevinmocorro.com">Kevin Mocorro</a>
+        </footer>
       </div>
     )
   }
@@ -69,11 +74,3 @@ class Layout extends React.Component {
 
 export default Layout
 
-/*
-<footer>
-© {new Date().getFullYear()}, Built with
-{` `}
-<a href="https://www.gatsbyjs.org">Gatsby</a>
-</footer>
-
-*/
