@@ -15,8 +15,8 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="All posts"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          title="Kevin Mocorro"
+          keywords={[`kevinmocorro`, `blog`, `javascript`, `react`, `nodejs`, `gaming pc philippines`, `gaming pc`]}
         />
         <Bio />
         {posts.map(({ node }) => {
@@ -26,6 +26,10 @@ class BlogIndex extends React.Component {
               <h3
                 style={{
                   marginBottom: rhythm(1 / 4),
+                  fontFamily: 'Montserrat',
+                  color: '#c30042',
+                  fontSize: 28
+                  
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
