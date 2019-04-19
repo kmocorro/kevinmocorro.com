@@ -8,7 +8,6 @@ class Layout extends React.Component {
     const { location, title, children } = this.props;
     const rootPath = `${__PATH_PREFIX__}/`;
     let header;
-    let footer;
 
     if (location.pathname === rootPath) {
       header = (
@@ -51,26 +50,6 @@ class Layout extends React.Component {
           </Link>
         </h3>
       );
-
-      footer = (
-        <h3
-          style={{
-            fontFamily: `Montserrat, sans-serif`,
-            marginTop: rhythm(1/3),
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `#1B95E0`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h3>
-      )
     }
     return (
       <div

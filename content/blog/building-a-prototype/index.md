@@ -22,7 +22,7 @@ Evaluate the problem and understand their situation first by asking them questio
 
 **Don't waste your time building a *perfect* prototype to solve a problem.**
 
-If there's a need, work on it by analyzing the problem, gathering all the functional requirements and consider the scope *before* building it.
+If there's a need, work on it by analyzing the problem, gathering all the functional requirements and considering the scope *before* building it.
 
 
 
