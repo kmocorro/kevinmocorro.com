@@ -1,6 +1,6 @@
 ---
 title: "Building a prototype"
-date: "2019-04-19"
+date: "2019-04-19 09:15"
 description: "It all started with an idea. Then everybody sees it. Now, everybody wants to join the ride..."
 ---
 
