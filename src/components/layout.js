@@ -5,9 +5,10 @@ import { rhythm, scale } from "../utils/typography"
 
 class Layout extends React.Component {
   render() {
-    const { location, title, children } = this.props
-    const rootPath = `${__PATH_PREFIX__}/`
-    let header
+    const { location, title, children } = this.props;
+    const rootPath = `${__PATH_PREFIX__}/`;
+    let header;
+    let footer;
 
     if (location.pathname === rootPath) {
       header = (
@@ -49,6 +50,26 @@ class Layout extends React.Component {
             {title}
           </Link>
         </h3>
+      );
+
+      footer = (
+        <h3
+          style={{
+            fontFamily: `Montserrat, sans-serif`,
+            marginTop: rhythm(1/3),
+          }}
+        >
+          <Link
+            style={{
+              boxShadow: `none`,
+              textDecoration: `none`,
+              color: `#C30042`,
+            }}
+            to={`/`}
+          >
+            {title}
+          </Link>
+        </h3>
       )
     }
     return (
@@ -62,15 +83,20 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()},
-          {` `}
-          <a href="https://kevinmocorro.com">Kevin Mocorro</a>
-        </footer>
       </div>
     )
   }
 }
 
 export default Layout
+/*
 
+
+        <footer>
+          © {new Date().getFullYear()},
+          {` `}
+          <a href="https://kevinmocorro.com">Kevin Mocorro</a>
+        </footer>
+
+
+*/

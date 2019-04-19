@@ -1,7 +1,7 @@
 ---
 title: Don't lose hope
 date: "2019-04-18"
-description: "My mind urges me to stand and walk away. But there's something inside of me saying \"Stay for a little while and we will go home later.\"."
+description: "My mind urges me to stand and walk away. But there's something inside of me saying \"Stay for a little while and we will go home later.\"..."
 ---
 
 Exactly 6 years ago, I graduated from a state university in Philippines which I took Computer Engineering Technology. Mom asked me if I still want to continue my bachelors degree in Computer Engineering.
