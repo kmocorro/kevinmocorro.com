@@ -61,7 +61,7 @@ module.exports = {
         short_name: `Kevin Mocorro`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#1B95E0`,
+        theme_color: `#C30042`,
         display: `minimal-ui`,
         icon: `content/assets/icon.png`,
       },
