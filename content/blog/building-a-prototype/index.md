@@ -4,11 +4,11 @@ date: "2019-04-19 09:15"
 description: "It all started with an idea. Then everybody sees it. Now, everybody wants to join the ride..."
 ---
 
-There are lot of things I have learned when I am working with corporate sponsors or clients. One of which is ***Don't waste your time***.
+There are lots of things I have learned when I am working with corporate sponsors or clients. One of which is ***Don't waste your time***.
 
 ####Don't waste your time
 
-It's exciting when people asks for your help. You gave them an idea on how to solve it then they'll say *"Oh! That's a very good idea! We will definitely consider that."* and then they'll come to ask you to create a quick illustration or **prototype** based on the initial discussion. Right off the bat, you have done it but later you found out they threw you under the bus because it failed miserably.
+It's exciting when people asks for your help. You gave them an idea on how to solve it then they'll say *"Oh! That's a very good idea! We will definitely consider that."*  They'll come and ask you to create a quick illustration or **prototype** based on the initial discussion. Right off the bat, you have done it but later you found out they threw you under the bus because it failed miserably.
 
 Some ideas are not good, but only you can verify if it's *useful* or not. Having a prototype without considering its purpose and what it's trying to solve is like building a paper plane with rockets in it. Only to realize, that your client needs a paper plane with smoke trail in it. 
 
