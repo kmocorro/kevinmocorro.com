@@ -57,7 +57,7 @@ That's the key to understanding, you'll never get the first things right. Nothin
 
 When you're starting into the development stage assuming you already know what you're going to do based on the requirements of the project. I won't suggest to make things scalable, perfect, state-of-the-art piece of code at first. Instead, I'd suggest make a prototype and see how it works and then if things goes well or your prototype shows real potential or value then you can start investing time on making the code more structured, more solid, scalable and everything like that. 
 
-It's okay to make mistakes and having a prototype will help you to keep going. There are a lot of good ways on how code but don't let it stop you from coding.
+It's okay to make mistakes and having a prototype will help you to keep going. There are a lot of good ways on how to code but don't let it stop you from trying.
 
 ####5.Focus on the project not on the technology
 
