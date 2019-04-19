@@ -46,7 +46,7 @@ This can be done by starting or creating a project. I remember started creating 
 
 ####3.Don't be afraid to make mistakes
 
-I know it sounds a cliché right? But it's true. When you're afraid about something, you tend not to do anything but wait for it to happen.
+I know it sounds a cliché right? But it's true. When you're afraid about something, you tend not to do anything and just wait for it to happen.
 
 People often think of me as a trying hard professional but what they don't know is that I have tried several work arounds to make things done. The code is not optimal, not properly written but still I was able to launch my first web app. I need to get things rolling, I need to get things done.
 

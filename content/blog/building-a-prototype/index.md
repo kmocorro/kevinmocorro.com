@@ -10,7 +10,7 @@ There are a lot of things that I have learned when I am working with a corporate
 
 It's exciting when people asks for your help. You gave them an idea on how to solve it then they'll say *"Oh! That's a very good idea! We will definitely consider that."* and then they came back and asks you to create a quick illustration or **prototype** based on the initial discussion. Right off the bat, you have done it but later you found out they threw you under the bus because it failed miserably.
 
-Some ideas are not good but only you can see it's *useful*. Having a prototype without considering its purpose and what it's trying to solve is like building a paper plane with rockets in it. Only to realize, that your client needs a paper plane with smoke trail in it. 
+Some ideas are not good but only you can verify if it's *useful* or not. Having a prototype without considering its purpose and what it's trying to solve is like building a paper plane with rockets in it. Only to realize, that your client needs a paper plane with smoke trail in it. 
 
 There will be some point in your life that you will spend a lot of hours trying to build something thinking that they need it but in reality, ***they don't***.
 
