@@ -40,7 +40,7 @@ I think this is the best way to learn programming, aside from having ***the abil
 
 You might think you're so good with a certain language when you follow it step-by-step. But when you go out and face real problems, you'll eventually feel that it's hard and things not falling into place. Because the key is to understand, understand the concepts of a certain procedure, terminologies, syntax etc.
 
-In JavaScript, I am thankful that I have learned syntax parsers, execution context, lexical environtment, objects, arguments, loops etc. Try understanding the concepts of your selected programming language and eventually you'll find yourself enjoying in solving problems using code.
+In JavaScript, I am thankful that I have learned syntax parsers, execution context, lexical environment, objects, arguments, loops etc. Try understanding the concepts of your selected programming language and eventually you'll find yourself enjoying in solving problems using code.
 
 This can be done by starting or creating a project. I remember started creating my intranet web app for building prototypes and the basics of CRUD.
 

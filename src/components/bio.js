@@ -38,8 +38,8 @@ function Bio() {
               }}
             />
             <p style={{ maxWidth: 265, }}>
-              Personal blog by <a href={`https://twitter.com/${social.twitter}`} style={{color: '#1B95E0' }} target="_blank" rel="noopener noreferrer" > Kevin Mocorro</a>.
-              {` `} I teach things that excites me.
+              Personal blog by <a href={`https://twitter.com/${social.twitter}`} style={{color: '#C30042' }} target="_blank" rel="noopener noreferrer" > Kevin Mocorro</a>.
+              {` `} I build things with code.
             </p>
           </div>
           

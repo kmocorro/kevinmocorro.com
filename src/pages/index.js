@@ -27,7 +27,7 @@ class BlogIndex extends React.Component {
                 style={{
                   marginBottom: rhythm(1 / 4),
                   fontFamily: 'Montserrat',
-                  color: '#1B95E0',
+                  color: '#C30042',
                   fontSize: 28
                   
                 }}
